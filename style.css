@@ -553,6 +553,10 @@ select:hover {
     position: relative;
     left: 500px;
 }
+.language:hover{
+    background-color: #232f3e;
+    color: #dddddd
+}
 .currency{
     border: 1px white solid;
     border-radius: 6%;
